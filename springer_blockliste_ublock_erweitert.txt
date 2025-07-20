@@ -1,0 +1,86 @@
+! Axel Springer Verlag – uBlock Filterliste
+! Erstellt am: 20.07.2025
+! Enthält bekannte Domains und Subdomains von Axel Springer SE
+
+||bild.de^
+||www.bild.de^
+||m.bild.de^
+||plus.bild.de^
+||static.bild.de^
+
+||welt.de^
+||www.welt.de^
+||m.welt.de^
+||interactive.welt.de^
+||plus.welt.de^
+
+||businessinsider.de^
+||www.businessinsider.de^
+||bi-cdn.de^
+
+||politico.eu^
+||www.politico.eu^
+
+||upday.com^
+||www.upday.com^
+||news.upday.com^
+
+||axelspringer.com^
+||www.axelspringer.com^
+||jobs.axelspringer.com^
+
+||springer.com^
+||springer-medien.de^
+||axelspringerideas.de^
+
+||rollingstone.de^
+||www.rollingstone.de^
+
+||computerbild.de^
+||www.computerbild.de^
+||plus.computerbild.de^
+
+||autoservicepraxis.de^
+||autohaus.de^
+
+||musikexpress.de^
+||www.musikexpress.de^
+
+||immonet.de^
+||www.immonet.de^
+
+||stepstone.de^
+||www.stepstone.de^
+
+||finanzen.net^
+||www.finanzen.net^
+
+||meinestadt.de^
+||www.meinestadt.de^
+
+||carworld.de^
+||carworld.com^
+
+||transfermarkt.de^
+||www.transfermarkt.de^  ! Gehört nicht direkt zu Springer, wird aber manchmal über Partner ausgeliefert
+
+
+! === Noch nicht vorhandene, aber empfohlene Domains ===
+
+||bi-cdn.net^                  ! CDN von Business Insider (Springer)
+||plus.rollingstone.de^       ! Paywall-Inhalte
+||plus.musikexpress.de^       ! Paywall-Inhalte
+||jobs.axelspringer.de^       ! Alternative Subdomain für Stellenangebote
+||axelspringer.store^         ! Merchandise-Store von Springer
+
+||sprdlx.io^                  ! Tracking-Domain von Springer-Marken
+||*.sprdlx.io^                ! Wildcard für Subdomains
+
+||ioam.de^                    ! IVW-Tracking, u. a. auf Springer-Seiten
+||chartbeat.com^              ! Echtzeit-Analytics
+||cedexis.com^                ! CDN & Performance Tracking
+||taboola.com^                ! Native Ads & Tracking
+||outbrain.com^               ! Sponsored Content Ads
+||springserve.com^            ! Video Ad-Serving-Plattform
+
+||plus.finanzen.net^          ! Bezahl-Inhalte auf finanzen.net
